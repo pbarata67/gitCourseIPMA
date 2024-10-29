@@ -16,6 +16,10 @@ Repo para fins de formação - GIT
 - Algés
   - NNIO
   - DivOA
-  - 
+
+- Outras delegações
+  - Açores
+  - Madeira
+  - ...
 
 
