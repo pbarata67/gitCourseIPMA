@@ -9,9 +9,6 @@ Repo para fins de formação - GIT
     - Worplace
   - Systems
     - ...
-      
-- Others
-    - ...
 
 - Algés
   - NNIO
@@ -22,4 +19,5 @@ Repo para fins de formação - GIT
   - Madeira
   - ...
 
+[link to google](http://www.google.com)
 
