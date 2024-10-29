@@ -1,7 +1,7 @@
 # gitCourseIPMA
 Repo para fins de formação - GIT
 
-**nane** : *Paulo Barata*
+**name** : *Paulo Barata*
 
 - DivSI
   - Programming
